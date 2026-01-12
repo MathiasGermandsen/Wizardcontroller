@@ -1,10 +1,10 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
-const char WIFI_SSID[] = "Galaxy_S24_FE";
-const char WIFI_PASS[] = "giraf123";
+const char WIFI_SSID[] = "";
+const char WIFI_PASS[] = "";
 
-const char SERVER_IP[] = "10.67.3.179"; // Opdater med serverens IP
+const char SERVER_IP[] = ""; // Opdater med serverens IP
 const int SERVER_PORT = 3000;
 
 const int SCREEN_WIDTH = 240;
